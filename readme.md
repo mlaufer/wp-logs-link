@@ -11,7 +11,7 @@ I was annoyed that I always had to copy character names from [WoWProgress](https
 
 ### Installing
 
-Go to your Tampermonkey Dashboard and add a new script. You could even choose a fancy name...
+Go to your Tampermonkey Dashboard and add a new script with the contents of the userscript.js. You could even choose a fancy name...
 
 ## Authors
 
